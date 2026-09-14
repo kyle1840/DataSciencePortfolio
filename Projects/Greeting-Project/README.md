@@ -16,3 +16,9 @@ I learned that I need to put an f before a string in a print statement to insert
 
 ## Future Improvements
 If I continued working on this project, I would try to make a short conversation with the user.
+
+## My Projects
+
+### Interactive Greeting Project
+
+[View Project](Greeting-Project)
